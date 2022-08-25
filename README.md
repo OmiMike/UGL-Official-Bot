@@ -35,6 +35,6 @@
          * Then we ask for your discord @. You will find this in the list that pops up
             * If it does not show up start typing your discord name in and it will show up in the list
          * Then we ask for your partners discord name.
-         ### OPTIONAL
+         *--* OPTIONAL *--*
             * sub would be if you want a sub for your team during the season
             * sub2 would be a second sub for your team during the season
