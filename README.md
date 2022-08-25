@@ -19,3 +19,22 @@
       ### Weekly
          * This is functional for you to see your weekly stats. 
          * The time frame on these stats starts at 8pm EST Sundays and ends 7:59pm EST the following Sunday.
+
+
+### LEAGUE COMMANDS FOR USERS
+
+* /register
+   * Registration for the various modes me currently have
+      ### Solos
+         * First we will ask for you in game name or `ign`
+         * `target` gets a bit confusing for some. 
+            * Make sure to use your discord name. 
+            * If it does not appear start typing it in and it will pull up on the list.
+      ### Duos
+         * First we ask for you team name. Make sure to type it in and remember your spelling
+         * Then we ask for your discord @. You will find this in the list that pops up
+            * If it does not show up start typing your discord name in and it will show up in the list
+         * Then we ask for your partners discord name.
+         ### OPTIONAL
+            * sub would be if you want a sub for your team during the season
+            * sub2 would be a second sub for your team during the season
