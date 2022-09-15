@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wired-effort-294316",
+  "private_key_id": "b31a593738b473d0f46255e9cb2ad670946a82f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDVwQsIG3DuOnz+\n9ob2zxz0W9986aTltco88KlKx/5nM4kWKgc2zmaFkXmj5FeoiPPpuBRKZ86mFuTn\nU2kJ6JHzNb8rLVmrqAOMGXOsp/+iMgz0oFW6lsWlwjOG9p8ilic/NMj5kI9N7EI7\nRCjvURxF33J5qO2ll6qFRnLlvlk5OH+gylVGeZqaqfEAIKL/ILPqHMrUrN1LqgF7\norlHV8giyRSO3Fdhwsut2YCimLMduErY920Auqh7nQ8obfWvl/zfGTWw1bDPXo88\nPlRodioVAGdeeFuIKvLxekew6K9pBTfUZlHWcDGoAAQ/0ExbCaPXM6rB5xAG9dPE\nJeYYWHmbAgMBAAECggEAYWbzZ3DVr4CwZ6Af1QSAnarltm5jKReC/ezuP7jNaOp3\na8Wf/u3jkra9Fp0dApvRha1Pda5C4LUq/mwoP48ePpS9tWeXZlyLrUIFz2XIW3jy\nJWCQYBOHIebSAwyLbD++x5L+h5ZDbs8bSRVgj9jGiOJusBh1nhDz74IwJhdsYeFT\nOL6USJrYvFOKV8KVGiOKzS0zd1xkyLNlinDTVzBezPduWvurPlNpyioIRfZJQYX+\nu3hERt61CPMhFM3akR9gTKRrFS+SWQzvEZNeXLAhtZ1fml4UytKt8Lmv4s5DsTG6\no/A2QdGAFHOhQRGZg10lmmON4q4XioMT+BZ94SRSAQKBgQDrrJWUDMvyoSwgS+Ju\nz5gGYeirzHyvu/CPocQXmyC6o6fpUOuDLSbMroB9x8AinFI+kKLPHFkFtE5JbtHp\ntw48sH5z3jY5a9fFAZr4Ryo6yrtpiawz7+ZM+Fj3bZI0opt6ZIZ5HCaQs13D8Soq\nBrkAAc2KaD5BUH2gT8veMT9GAQKBgQDoMH0LiY3kiWJlKnKU/td/KZLTwfx6Gl8w\nVYXBYs3U50b2KsS8M/gpG7/XVmK8XyrJBAWZYKrlV2YSW6crpDz7WAhjBlASyGP4\n7lp6eKuTwcIzlhfyFBmgNG2dbU+b34oL16tmPDvEpITrT5AryySz5vH11FWDMIjI\nyrFOXb8XmwKBgB04svs+cvNMpKoEfrj6qIDyFuVmX3dyuCs3BZdftrktnZ5CWFFV\ngeATKv9tixc/hrsXN/iyLR+V8bcNNJ3kArHnuGYpgVOxWXml708lk8jiZkZ5uY5f\nCpE0oeNcBKreFqUgXcQah3Wdp9ypxG6dksa7cn7c2gtDLbB49HBCbvQBAoGARvMa\nIr5jp2P7tyIjZTgCLY9MmHx8Y+tPDvvzJUbF0rrhSjODbmcK+7TJCEoTXbBO6KHb\n/CQ31GDChfWPvZwwLjWWSnwRV8v4EIb1Ctt4wmvApfbFVmmh8vxSSnquitjh3ACJ\nFXJuaQZEv4rOaTNoAbkeUpoRj0bzZTfaujGXROUCgYAA/LBnObkSzuhf71rkUTrV\nygxZTvCQos3aFgmxxXcAsxS8aqqb6328d4s0//hrxxxd092sbZ8mLmOKE4Tt8FR5\noxKhY6aCa/F0Zg/Qm7JLUAH8Ct5jiMLM0GBScl3cAaruFvIP9P21Cy2+ZKk6Vgt7\nLFvX8jZVWqNnVpjmGE0/gw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gun-raiders-bot@wired-effort-294316.iam.gserviceaccount.com",
+  "client_id": "103085446994398369592",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gun-raiders-bot%40wired-effort-294316.iam.gserviceaccount.com"
+}

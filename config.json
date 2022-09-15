@@ -1,0 +1,14 @@
+{
+    "mysql_host": "45.13.252.103",
+    "mysql_user": "u975686815_ultimateleague",
+    "mysql_password": "Opal-2015",
+    "mysql_database": "u975686815_ugl",
+    "vote_endpoint_port": 8055,
+    "paypal_donor_check_rate": 10000,
+    "everyoneMention": false,
+    "hostedBy": true,
+    "paypal_api_username": "silenttrainers18_api1.gmail.com",
+    "paypal_api_password": "LBF9JNRQPBVZ8ABG",
+    "paypal_api_signature": "AlOLfDYsU1H9DsbUHs6IabqS0gDzAatpkIfL7u6z2M95m2hgBDNsm44q"
+    
+}
